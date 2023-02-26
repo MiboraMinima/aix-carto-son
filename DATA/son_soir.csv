@@ -1,0 +1,73 @@
+label,son_dom,sous_cat
+A_0,Géophonique,Action de la houle
+A_1,Géophonique,Action de la houle
+A_2,Indiscernable,Indiscernable
+A_3,Géophonique ,Action du vent
+A_4,Géophonique ,Action du vent
+A_5,Anthropophonique,Voitures 
+A_6,Anthropophonique,Bourdonnement sourd
+A_7,Anthropophonique,Voitures 
+A_8,Indiscernable,Indiscernable
+A_9,Anthropophonique,Voitures 
+A_10,Biophonique ,Avifaune 
+A_11,Indiscernable,Indiscernable
+A_12,Biophonique ,Avifaune 
+A_13,Géophonique ,Action du vent
+A_14,Anthropophonique ,Relatif aux bateaux
+B_0,Géophonique ,Action du vent
+B_1,Géophonique ,Action du vent
+B_2,Géophonique ,Action du vent
+B_3,Biophonique,Avifaune
+B_4,Géophonique ,Action du vent
+B_5,Géophonique ,Action de la houle 
+B_6,Géophonique ,Action de la houle 
+B_7,Géophonique ,Action de la houle 
+B_8,Anthropophonique,Voitures 
+B_9,Géophonique ,Action de la houle 
+B_10,Géophonique ,Action de la houle 
+B_11,Géophonique ,Action de la houle 
+B_12,Géophonique ,Action de la houle 
+B_13,Géophonique ,Action de la houle 
+C_0,Géophonique ,Action de la houle 
+C_1,Géophonique ,Action de la houle 
+C_2,Géophonique ,Action de la houle 
+C_3,Géophonique ,Action de la houle 
+C_4,Anthropophonique,Voitures 
+C_5,Géophonique ,Action du vent
+C_6,Géophonique ,Action de la houle 
+C_7,Géophonique ,Action du vent
+C_8,Géophonique ,Action de la houle 
+C_9,Géophonique ,Action de la houle 
+C_10,Indiscernable,Indiscernable
+C_11,Géophonique ,Action du vent 
+C_12,Géophonique ,Action du vent 
+C_13,Géophonique ,Action de la houle 
+D_0,Géophonique,Action de la houle
+D_1,Géophonique,Action de la houle
+D_2,Géophonique,Action de la houle
+D_3,Géophonique,Action de la houle
+D_4,Anthropophonique,bruit du moteur
+D_5,Géophonique,Action de la houle
+D_6,Géophonique,Action de la houle
+D_7,Indiscernable,Indiscernable
+D_8,Géophonique,Action de la houle
+D_9,Géophonique,Action de la houle
+D_10,Géophonique,Action de la houle
+D_11,Géophonique,Action de la houle
+D_12,Géophonique,Action de la houle
+D_13,Géophonique,Action de la houle
+E_0,Indiscernable,Indiscernable
+E_1,Indiscernable,Indiscernable
+E_2,Indiscernable,Indiscernable
+E_3,Géophonique,Action de la houle
+E_4,Géophonique,Action de la houle
+E_5,Géophonique,Action de la houle
+E_6,Géophonique,Vent
+E_7,Géophonique,Action de la houle
+E_8,Géophonique,Action de la houle
+E_9,Géophonique,Action de la houle
+E_10,Géophonique,Action de la houle
+E_11,Géophonique,Action de la houle
+E_12,Géophonique,Vent
+E_13,Géophonique,Vent
+E_14,Géophonique,Action de la houle

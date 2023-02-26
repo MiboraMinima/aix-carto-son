@@ -1,0 +1,76 @@
+label,son_dom,sous_cat
+A_0,Géophonique ,Action de la houle
+A_1,Géophonique ,Action de la houle
+A_2,Biophonique ,Avifaune
+A_3,Géophonique ,Action du vent
+A_4,Antropophonique ,Voitures
+A_5,Antropophonique ,Aviation
+A_6,Antropophonique ,Bateau
+A_7,Géophonique ,Action du vent
+A_8,Antropophonique ,Passage de piétons
+A_9,Antropophonique ,Aviation 
+A_10,Antropophonique ,Activité ostréicole 
+A_11,Antropophonique ,Travaux et chantiers
+A_12,Antropophonique ,Passage de piétons
+A_13,Antropophonique ,Travaux et chantiers
+A_14,Antropophonique ,Travaux et chantiers
+B_0,Antropophonique ,Travaux et chantiers
+B_1,Antropophonique ,Passage de piétons
+B_2,Antropophonique ,Passage de piétons
+B_3,Biophonique ,Avifaune
+B_4,Biophonique ,Avifaune
+B_5,Biophonique ,Avifaune
+B_6,Biophonique ,Avifaune
+B_7,Biophonique ,Avifaune
+B_8,Antropophonique ,Relatifs aux bateaux
+B_9,Antropophonique ,Relatifs aux bateaux
+B_10,Antropophonique ,Relatifs aux bateaux
+B_11,Biophonique ,Avifaune
+B_12,Géophonique ,Action de la houle
+B_13,Biophonique ,Avifaune
+C_0,Biophonique,Avifaune
+C_1,Biophonique ,Avifaune 
+C_2,Géophonique ,Action du vent 
+C_3,Anthropophonique,Passage de piétons
+C_4,Anthropophonique,Passage de piétons
+C_5,Géophonique,Action de la houle
+C_6,Biophonique,Avifaune
+C_7,Géophonique,Action du vent
+C_8,Géophonique,Action de la houle
+C_9,Géophonique ,Action de la houle 
+C_10,Biophonique,Avifaune
+C_11,Géophonique ,Action de la houle
+C_12,Géophonique ,Action du vent 
+C_13,Anthropophonique,Aviation
+D_0,Géophonique,Action de la houle
+D_1,Géophonique,Action de la houle
+D_2,Géophonique,Action de la houle
+D_3,Géophonique,Action de la houle
+D_4,Anthropophonique ,Discussion
+D_5,Biophonique,Avifaune marine
+D_6,Anthropophonique ,Discussion
+D_7,Biophonique,Avifaune terrestre
+D_8,Biophonique,Avifaune terrestre
+D_9,Géophonique,Action de la houle
+D_10,Géophonique,Action de la houle
+D_11,Géophonique,Action de la houle
+D_12,Anthropophonique ,Tâche domestique
+D_13,Géophonique,Action de la houle
+E_0,Biophonique,Avifaune
+E_1,Anthropophonique,Loisirs
+E_2,Anthropophonique,Aviation
+E_3,Anthropophonique,Loisirs
+E_4,Géophonique,Vagues
+E_5,Biophonique,Avifaune
+E_6,Anthropophonique,Aviation
+E_7,Géophonique,Vagues
+E_8,Géophonique,Vagues
+E_9,Géophonique,Vent
+E_10,Géophonique,Vagues
+E_11,Géophonique,Vent
+E_12,Géophonique,Vent
+E_13,Géophonique,Vent
+E_14,Anthropophonique,Bateau
+Z_0,Anthropophonique,Bateau
+Z_1,Anthropophonique,Bateau
+Z_2,Anthropophonique,Bateau
